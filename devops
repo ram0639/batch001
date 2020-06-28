@@ -28,3 +28,11 @@ git config --global user.name "DevOps"
 git config --global --unset user.name
 
 ----------------------------------------
+
+amend+
+
+-> git commit --amend -m "labil name" filename
+
+revert+
+
+-> git revert
