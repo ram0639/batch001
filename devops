@@ -1,0 +1,30 @@
+alias
+------
+git status
+git s
+
+git config --global alias.s "status"
+
+git config --global --unset  alias.s
+
+git log
+git l
+git config --global alias.l "log"
+
+git config --global --unset alias.l
+
+git log --oneline
+git l1
+
+git config --global alias.l1 "log --oneline"
+
+git config --global --unset alias.l1
+
+git config --list
+
+git config --global user.name "Prasad"
+git config --global user.name "DevOps"
+
+git config --global --unset user.name
+
+----------------------------------------
