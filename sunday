@@ -1,3 +1,10 @@
 git rever
 gi ammedn
 git message
+amend+
+
+-> git commit --amend -m "labil name" filename
+
+revert+
+
+-> git revert cid
